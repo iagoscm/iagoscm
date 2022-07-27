@@ -1,7 +1,8 @@
-# 👋 Hello, I'm Iagow!
+<h1 align="center">Hi 👋, I'm Iago Campelo!</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=iagoscm&label=Profile%20views&color=0e75b6&style=flat" alt="iagoscm" /> </p>
 
 - 👨‍💻 Atualmente fazendo graduação de Engenharia de Software (UnB)
-- 🎤 My first language is portuguese, but i have intermediate english (TOEFL B2)
+- 🎤 My first language is portuguese, but I do have intermediate english (TOEFL B2)
 - 📫 Meu email é: iagomatosousa@gmail.com; me contate por lá!
 - 🖥️ Principais ferramentas e tecnologias:
 
@@ -13,6 +14,7 @@
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50rem"/>
 </div>
 
+# My stats
 <div>
   <a href="https://github.com/iagoscm">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iagoscm&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
