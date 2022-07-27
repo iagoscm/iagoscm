@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Iago Campelo!</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iagoscm&label=Profile%20views&color=0e75b6&style=flat" alt="iagoscm" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=iagoscm&label=Profile%20views&color=0e75b6&style=flat" alt="iagoscm" /> </p>
 
 - 👨‍💻 Atualmente fazendo graduação de Engenharia de Software (UnB)
 - 🎤 My first language is portuguese, but I do have intermediate english (TOEFL B2)
