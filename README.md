@@ -50,8 +50,8 @@
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
-<h2 align="center">📈 My Stats</h2>
-<div align="center">
+<h3> :shipit: &nbsp;Meus status </h3>
+
   <a href="https://github.com/iagoscm">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iagoscm&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iagoscm&layout=compact&langs_count=7&hide=c%2B%2B,c,&theme=tokyonight"/>
@@ -59,7 +59,7 @@
 
 ![Snake animation](https://github.com/iagoscm/iagoscm/blob/output/github-contribution-grid-snake.svg)
 
-</div>
+
 
 
 
