@@ -2,7 +2,6 @@
 <h3> :man: &nbsp;Sobre mim </h3>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Iago_Campelo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iagow/)](https://www.linkedin.com/in/iagow/)
-[![Instagram Badge](https://img.shields.io/badge/-iagow-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/iagow/)](https://www.instagram.com/iagow/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:iagomatosousa@gmail.com)](mailto:iagomatosousa@gmail.com)
 
 - 🤔 &nbsp; Estudando **Ciência de Dados** e **Aprendizado de Máquina**.
