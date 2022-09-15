@@ -7,7 +7,7 @@
 - 🤔 &nbsp; Estudando **Ciência de Dados** e **Aprendizado de Máquina**.
 - 🎓 &nbsp; Estudante de **Engenharia de Software** na <a href="https://fga.unb.br/">Universidade de Brasília</a>.
 - 💼 &nbsp; Trabalhando com **Gamificação** na Empresa Júnior <a href="https://orcestra.com.br/">Orc'estra Gamificação</a>
-- 🌱 &nbsp; Aprendendo mais sobre **Python**, **React** e **Django**.
+- 🌱 &nbsp; Aprendendo mais sobre **Python**, **Django**, **Javascript** e **React**.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
@@ -48,7 +48,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iagoscm&layout=compact&langs_count=7&hide=c%2B%2B,c,&theme=tokyonight"/>
 
 
-![Snake animation](https://github.com/iagoscm/iagoscm/blob/output/github-contribution-grid-snake.svg)
+<!--![Snake animation](https://github.com/iagoscm/iagoscm/blob/output/github-contribution-grid-snake.svg)-->
 
 
 
