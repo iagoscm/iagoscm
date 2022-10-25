@@ -4,6 +4,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Iago_Campelo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iagow/)](https://www.linkedin.com/in/iagow/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:iagomatosousa@gmail.com)](mailto:iagomatosousa@gmail.com)
 
+![](https://github.com/iagoscm/iagoscm/blob/main/giphy.gif)
+
 - 🤔 &nbsp; Estudando **Ciência de Dados** e **Aprendizado de Máquina**.
 - 🎓 &nbsp; Estudante de **Engenharia de Software** na <a href="https://fga.unb.br/">Universidade de Brasília</a>.
 - 💼 &nbsp; Trabalhando com **Gamificação** na Empresa Júnior <a href="https://orcestra.com.br/">Orc'estra Gamificação</a>
@@ -44,13 +46,6 @@
 <h3> :shipit: &nbsp;Meus status </h3>
 
   <a href="https://github.com/iagoscm">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iagoscm&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iagoscm&layout=compact&langs_count=7&theme=tokyonight"/>
-
-
-![Snake animation](https://github.com/iagoscm/iagoscm/blob/output/github-contribution-grid-snake.svg)
-
-
-
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iagoscm&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"></img>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iagoscm&layout=compact&langs_count=7&theme=tokyonight"></img>
 
