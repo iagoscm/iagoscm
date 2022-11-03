@@ -1,12 +1,13 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Iago_Campelo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iagow/)](https://www.linkedin.com/in/iagow/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:iagomatosousa@gmail.com)](mailto:iagomatosousa@gmail.com)
 ##
-
-![](https://github.com/iagoscm/iagoscm/blob/main/giphy.gif)
-
-- 🤔 &nbsp; Estudando **Banco de Dados** · **Inteligência Artificial** · **Requisitos de Software** · **UX/UI** · **Testes**
-- 📚 &nbsp; Pesquisador em um projeto sobre **Ambientes Imersivos de Realidade Virtual para Pessoas com TEA**
-- 🎓 &nbsp; Estudante de **Engenharia de Software** na <a href="https://fga.unb.br/">Universidade de Brasília</a>.
+<div>
+  <img align="right" height="120rem" src="giphy.gif">
+</div>
+  
+- 🤔 &nbsp; Estudando **Banco de Dados** · **Requisitos de Software** · **UX/UI** · **Testes**
+- 📚 &nbsp; Aluno pesquisador em um projeto sobre **Ambientes Imersivos de Realidade Virtual para Adolescentes com TEA**
+- 🎓 &nbsp; Graduando de **Engenharia de Software** na <a href="https://fga.unb.br/">Universidade de Brasília</a>.
 - 💼 &nbsp; Trabalhando com **Gamificação** na Empresa Júnior <a href="https://orcestra.com.br/">Orc'estra Gamificação</a>
 - 🌱 &nbsp; Aprendendo mais sobre **Python** · **C#** · **Unity** · **SQL**
 
