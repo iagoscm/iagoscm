@@ -5,10 +5,10 @@
 </div>
   
 - 🤔 &nbsp; Estudando **Banco de Dados** · **Requisitos de Software** · **UX/UI** · **Testes**
-- 📚 &nbsp; Aluno pesquisador em um projeto sobre **Ambientes Imersivos de Realidade Virtual para Adolescentes com TEA**
+- 📚 &nbsp; Estagiário em QA no **Instituto Eldorado**
 - 🎓 &nbsp; Graduando de **Engenharia de Software** na <a href="https://fga.unb.br/">Universidade de Brasília</a>.
-- 💼 &nbsp; Trabalhando com **Gamificação** na Empresa Júnior <a href="https://orcestra.com.br/">Orc'estra Gamificação</a>
-- 🌱 &nbsp; Aprendendo mais sobre **Python** · **C#** · **Unity** · **SQL**
+- 💼 &nbsp; **Diretor Operacional** na Empresa Júnior <a href="https://orcestra.com.br/">Orc'estra Gamificação</a>
+- 🌱 &nbsp; Aprendendo mais sobre **Python** · **C#** · **.NET** · **SQL**
 
 <!--<h3> :rocket: &nbsp;Minhas Skills </h3>
 
