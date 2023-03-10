@@ -1,7 +1,7 @@
 ##
 
 <div>
-  <img align="right" height="140rem" src="giphy.gif">
+  <img align="right" height="120rem" src="giphy.gif">
 </div>
 
 <div style="display: inline_block">
