@@ -1,13 +1,13 @@
 ##
 
 <div>
-  <img align="right" height="120rem" src="giphy.gif">
+  <img align="right" height="100rem" src="giphy.gif">
 </div>
 
 <div style="display: inline_block">
   <a href="https://github.com/iagoscm">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iagoscm&count_private=true&show_icons=true&theme=tokyonight&hide_border=true"></img>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iagoscm&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"></img>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=iagoscm&count_private=true&show_icons=true&theme=tokyonight&hide_border=true"></img>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iagoscm&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"></img>
 </div>
 
 ##
