@@ -12,9 +12,6 @@
 
 ##
 
-![Linkedin Badge](https://img.shields.io/badge/-Iago_Campelo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iagow/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:iagomatosousa@gmail.com)](mailto:iagomatosousa@gmail.com)
-
 <div>
   <img align="right" src="https://komarev.com/ghpvc/?username=iagoscm&label=Profile%20views&color=0e75b6&style=flat"/>  
 </div>
