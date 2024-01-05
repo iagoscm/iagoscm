@@ -5,7 +5,7 @@
 
 ### Olá, eu sou o Iago! 
 ### Hi, I'm Iago! 
-### やあ、僕はイアーゴだ！
+### やあ、私はイアーゴだ！
 
 <div>
   <img align="right" src="https://komarev.com/ghpvc/?username=iagoscm&label=Profile%20views&color=0e75b6&style=flat"/>  
