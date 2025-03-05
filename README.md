@@ -30,5 +30,5 @@
 Java - JUnit - Typescript - Playwright - React - Python - Pytest - Django - C# - PostgresSQL
   
   <a href="https://github.com/iagoscm">
-    <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iagoscm&theme=midnight-purple&card_width=10&layout=compact&&hide=html,css" />
+    <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iagoscm&theme=midnight-purple&card_width=10&layout=compact&&hide=html,css,swift,javascript" />
   </a>
