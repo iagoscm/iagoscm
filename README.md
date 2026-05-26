@@ -39,7 +39,7 @@
 
 <p align="center">
   <a href="https://github.com/iagoscm">
-    <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iagoscm&theme=midnight-purple&card_width=10&layout=compact&&hide=html" />
+    <img height="160em" align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=iagoscm&theme=radical&&hide=html" />
   </a>
 </p>
 
